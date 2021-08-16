@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## All about Javascript/React
+## Ask me anything Javascript/React
+I am Waris Oloyede, a software/web developer committed to working hard to get the best out of me by building great project and making great achievments
 
 - 🔭 I’m currently working on some little personal projects
 - 🌱 I’m currently learning NextJs, Django
